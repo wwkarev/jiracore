@@ -2,6 +2,7 @@
 .idea*
 *.iml
 build
+gradle/*
 out/
 
 src/main/groovy/devel*
