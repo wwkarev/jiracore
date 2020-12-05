@@ -1,0 +1,7 @@
+.gradle*
+.idea*
+*.iml
+build
+out/
+
+src/main/groovy/devel*
